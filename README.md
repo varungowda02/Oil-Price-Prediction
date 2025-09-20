@@ -107,5 +107,5 @@ streamlit run app.py
 * ⏱️ Add real-time price updates using APIs
 * 🔍 Visualize historical trends and anomalies
 * 🤖 Explore advanced models (Prophet, ARIMA, LSTM) for comparison
-
+  
 ---
